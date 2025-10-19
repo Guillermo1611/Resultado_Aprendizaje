@@ -9,6 +9,17 @@
   --input-border: #ccc;
 }
 
+body.dark {
+  --bg-color: #202833;
+  --header-bg: #121822;
+  --text-color: #ffffff;
+  --button-bg: #2563eb;
+  --button-text: #ffffff;
+  --card-bg: #2a2f3a;
+  --input-bg: #1e242f;
+  --input-border: #444;
+}
+
 * {
   box-sizing: border-box;
 }
